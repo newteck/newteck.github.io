@@ -2562,5 +2562,12 @@ shortcodes page css
   font-weight: bold;
 }
 
+#technology-slider .first-column h3 {
+  color: black;
+  font-weight: bold;
+}
 
+#technology-slider .second-column h3 {
+  color: #fff;
+}
 
