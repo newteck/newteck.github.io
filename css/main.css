@@ -2571,3 +2571,9 @@ shortcodes page css
   color: #fff;
 }
 
+#career p {
+  font-size: 20px;
+}
+#career .fill-cv {
+  padding:30px 0px;
+}
